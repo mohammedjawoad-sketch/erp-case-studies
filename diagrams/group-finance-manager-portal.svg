@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="150" viewBox="0 0 920 150" role="img" aria-label="Seven SAP B1 companies to SAP HANA to Consolidation API to Finance manager portal">
+<rect width="920" height="150" rx="18" fill="#0a0f20"/>
+<rect x="21.0" y="37" width="182" height="76" rx="12" fill="#0d1530" stroke="#3a4f8f" stroke-width="1.5"/>
+<circle cx="39.0" cy="75" r="4.5" fill="#7aa2ff"/>
+<text x="53.0" y="71" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Seven SAP B1</text>
+<text x="53.0" y="89" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">companies</text>
+<line x1="211.0" y1="75" x2="241.0" y2="75" stroke="#7aa2ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M239.0 69 L247.0 75 L239.0 81 Z" fill="#45dcff"/>
+<rect x="253.0" y="37" width="182" height="76" rx="12" fill="#0d1530" stroke="#3a4f8f" stroke-width="1.5"/>
+<circle cx="271.0" cy="75" r="4.5" fill="#7aa2ff"/>
+<text x="285.0" y="80" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">SAP HANA</text>
+<line x1="443.0" y1="75" x2="473.0" y2="75" stroke="#7aa2ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M471.0 69 L479.0 75 L471.0 81 Z" fill="#45dcff"/>
+<rect x="485.0" y="37" width="182" height="76" rx="12" fill="#0d1530" stroke="#3a4f8f" stroke-width="1.5"/>
+<circle cx="503.0" cy="75" r="4.5" fill="#7aa2ff"/>
+<text x="517.0" y="80" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Consolidation API</text>
+<line x1="675.0" y1="75" x2="705.0" y2="75" stroke="#7aa2ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M703.0 69 L711.0 75 L703.0 81 Z" fill="#45dcff"/>
+<rect x="717.0" y="37" width="182" height="76" rx="12" fill="#0f2440" stroke="#45dcff" stroke-width="1.5"/>
+<circle cx="735.0" cy="75" r="4.5" fill="#45dcff"/>
+<text x="749.0" y="71" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Finance manager</text>
+<text x="749.0" y="89" fill="#f2f5ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">portal</text>
+</svg>
