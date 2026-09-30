@@ -1,11 +1,11 @@
 # ERP case studies
 
-Seven applications I designed and built for the companies of **Al Rafidain Group**, a multi-company group in Baghdad running SAP Business One on HANA across pharmaceuticals, airport transport, car rental and family entertainment.
+Seven applications I designed and built for a multi-company group in Baghdad running SAP Business One on HANA across pharmaceuticals, airport transport, car rental and family entertainment.
 
 The source code belongs to the group and is not published here. This repository documents what each application does, how it connects to SAP, and what it changed.
 
-**Mohammed Jawoad**, Senior SAP consultant and software engineer (SAP Business One, SAP S/4HANA), also Odoo and ERPNext
-[LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) | [Website source](https://github.com/mohammedjawoad-sketch/mohammedjawoad-portfolio) | mohammedjawoad@gmail.com
+**Mohammed Jawoad**, SAP consultant, full-stack developer, system administrator and IT consultant
+[Website](https://mohammedjawoad.me) | [LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) | mohammedjawoad@gmail.com
 
 ## At a glance
 
@@ -135,6 +135,6 @@ An Arabic-first workspace that brings planning and production, batch tracing, fi
 
 ## Work with me
 
-I'm open to SAP consultant and software engineering roles, and take on projects: SAP Business One and SAP S/4HANA implementation, software engineered around SAP, financial reporting and consolidation, and ongoing support, plus Odoo and ERPNext. Based in Baghdad, working on-site in Iraq and remotely.
+I'm open to SAP consultant, full-stack development and system administration roles, and take on projects: SAP Business One and SAP S/4HANA implementation, full-stack applications around SAP, financial reporting and consolidation, system administration and IT consulting, plus Odoo and ERPNext. Based in Baghdad, working on-site in Iraq and remotely.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) or email mohammedjawoad@gmail.com.
+See [mohammedjawoad.me](https://mohammedjawoad.me), [connect on LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) or email mohammedjawoad@gmail.com.
