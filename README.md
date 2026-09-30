@@ -4,7 +4,7 @@ Seven applications I designed and built for the companies of **Al Rafidain Group
 
 The source code belongs to the group and is not published here. This repository documents what each application does, how it connects to SAP, and what it changed.
 
-**Mohammed Jawoad**, Senior ERP consultant and Odoo developer (SAP Business One, SAP S/4HANA, Odoo, ERPNext)
+**Mohammed Jawoad**, Senior SAP consultant and software engineer (SAP Business One, SAP S/4HANA), also Odoo and ERPNext
 [LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) | [Website source](https://github.com/mohammedjawoad-sketch/mohammedjawoad-portfolio) | mohammedjawoad@gmail.com
 
 ## At a glance
@@ -21,7 +21,8 @@ The source code belongs to the group and is not published here. This repository 
 | [Operations and Finance Monitoring Platform](#operations-and-finance-monitoring-platform) | Airport transport company | 20 role-based workspaces in place of 27 legacy reports | SAP Service Layer, SAP Customer Checkout, B1if, PostgreSQL, React |
 | [AP Payment Approval Portal](#ap-payment-approval-portal) | Pharmaceutical company | Supplier payment approval on mobile, traced to SAP payments | SAP Service Layer, Node.js, React (PWA), SQL Server, Web Push |
 | [Finance Posting Portal](#finance-posting-portal) | Car rental company | Journal entries, payments, transfers and commissions posted to SAP | SAP Service Layer, Hono, tRPC, React, SQL Server |
-| [Fleet and Sales Applications](#fleet-and-sales-applications) | Fleet and sales teams | Accident memo workflow, and sales and invoice reporting (two applications) | SAP Service Layer, SAP API Gateway, Crystal Reports, Node.js, React |
+| [Vehicle Accident Memo Workflow](#vehicle-accident-memo-workflow) | Fleet team | Drivers submit accident memos, managers approve, and each memo is stored with its SAP attachments | SAP Service Layer, SAP API Gateway, Node.js, React |
+| [Sales and Invoice Reporting Portal](#sales-and-invoice-reporting-portal) | Sales team | Sales and invoice reports with Crystal Reports, Excel and PDF export | SAP Service Layer, SAP API Gateway, Crystal Reports, Node.js, React |
 | [Smart Enterprise Workspace](#smart-enterprise-workspace) | Pharmaceutical company | Planning, production, batch tracing, finance and approvals in one workspace | React, TypeScript, Vitest, Playwright, GitHub Actions |
 
 ---
@@ -89,15 +90,28 @@ Posts journal entries, incoming payments (including partial and cross-branch), f
 
 ## Fleet and Sales Applications
 
-**For:** the fleet and sales teams (two applications)
-
-A vehicle-accident memo workflow, where drivers submit, managers approve, and the memo is stored with its SAP attachments. And a sales and invoice reporting portal.
+Two applications for the fleet and sales teams.
 
 ![Driver submission, manager approval, SAP attachments, and reports and exports](diagrams/fleet-and-sales-apps.svg)
+
+### Vehicle Accident Memo Workflow
+
+**For:** the fleet team
+
+Drivers submit accident memos, managers approve them, and each memo is stored in SAP with its attachments.
 
 **Results**
 
 - Accident memos submitted by drivers and approved by managers, stored as SAP attachments
+
+### Sales and Invoice Reporting Portal
+
+**For:** the sales team
+
+Sales and invoice reporting on SAP Business One data, with Crystal Reports, Excel and PDF export.
+
+**Results**
+
 - Sales and invoice reports with Crystal Reports, Excel and PDF export, and role-based permissions
 
 **Built with:** SAP Service Layer, SAP API Gateway, Crystal Reports, Node.js, React
@@ -121,6 +135,6 @@ An Arabic-first workspace that brings planning and production, batch tracing, fi
 
 ## Work with me
 
-I take on SAP Business One, SAP S/4HANA, Odoo and ERPNext projects: implementation, custom apps connected to SAP, financial reporting and consolidation, and ongoing support. Based in Baghdad, working on-site in Iraq and remotely.
+I'm open to SAP consultant and software engineering roles, and take on projects: SAP Business One and SAP S/4HANA implementation, software engineered around SAP, financial reporting and consolidation, and ongoing support, plus Odoo and ERPNext. Based in Baghdad, working on-site in Iraq and remotely.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/mohammed-jawoad-219a75159) or email mohammedjawoad@gmail.com.
